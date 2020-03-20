@@ -5,12 +5,12 @@ For this app I use:
 - Serialisation for loading and saving products from menu.
 # Introduction
   There are three users : the chef, the waiter and the admin. The Chef can access the order that he must prepare. The waiter can generate the receipt and add a new order. The Admin can add/delete/edit a simple or composed product.
-  For every user a window (view) will appear with their rights.
-  IDE: Eclipse
-  Programming Language: Java
+  - For every user a window (view) will appear with their rights.
+  - IDE: Eclipse
+  - Programming Language: Java
 # Pre-requisites
-  This app is independent of operating system, but it needs Java.
-  Make deserialization first, to add products to the menu. After this, you can comment these lines of code, and make serialization for saving products that will be added.  
+  1. This app is independent of operating system, but it needs Java.
+  2. Make deserialization first, to add products to the menu. After this, you can comment these lines of code, and make serialization for saving products that will be added.  
 # Getting Started
   1. Download code.
   2. Open code in a Java IDE (like Eclipse or Intellij)
