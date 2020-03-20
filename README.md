@@ -9,7 +9,7 @@ For this app I use:
   - IDE: Eclipse
   - Programming Language: Java
 # Pre-requisites
-  1. This app is independent of operating system, but it needs Java.
+  1. This app is independent of the operating system, but it needs Java.
   2. Make deserialization first, to add products to the menu. After this, you can comment these lines of code, and make serialization for saving products that will be added.  
 # Getting Started
   1. Download code.
