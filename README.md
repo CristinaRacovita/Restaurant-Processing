@@ -10,7 +10,7 @@ For implementing this app I used:
   - Programming Language: Java
 # Pre-requisites
   1. This app is independent of the operating system
-  2. Java JDK 13
+  2. Java JDK 8
   3. Deserialization should be made first - to add products to the menu. After this, you can comment these lines of code, and make the serialization for saving products which will be added.  
 # Getting Started
   1. Download code.
